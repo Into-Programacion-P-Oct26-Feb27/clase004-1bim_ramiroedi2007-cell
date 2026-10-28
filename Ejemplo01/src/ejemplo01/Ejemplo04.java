@@ -20,3 +20,4 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante );
     }
 }
+//Para que sirve el System.out.print: Es para presentar la informacion de las variables en una sola linea a diferencia del println 
